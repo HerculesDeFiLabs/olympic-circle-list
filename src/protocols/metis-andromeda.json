@@ -198,5 +198,32 @@
     "telegram": "https://t.me/realwagmi",
     "defillama": "https://defillama.com/protocol/wagmi#information",
     "website": "https://wagmi.com/"
+  },
+  {
+    "chainId": 1088,
+    "id": "enki",
+    "name": "ENKI Protocol",
+    "logo": "https://github.com/ENKIXYZ/BrandingAssets/blob/master/logos/png/large/light-circle.png",
+    "cover": "https://github.com/ENKIXYZ/BrandingAssets/blob/master/logos/png/large/light-horizontal.png",
+    "banner": "https://app.hercules.exchange/images/olympic-banner.png",
+    "tagline": "First LSD protocol on @MetisL2 and all of Layer 2",
+    "tags": [
+      "LSD",
+      "LST"
+    ],
+    "description": "ENKI Protocol is the leading liquid staking solution built on top of Metis decentralized sequencer, providing a simplified approach to get rewards from sequencer node. By staking with ENKI your Metis tokens remain liquid and can be used across a range of DeFi applications on Metis, maximize your returns.",
+    "tokens": [
+      "0x096a84536ab84e68ee210561ffd3a038e79736f1",
+      "0x97a2de3A09F4A4229369ee82c7F76be1a5564661",
+      "0x79F3522a1b56f22a6549e42f9cfa92eF5FEb81e8"
+    ],
+    "twitter": "https://twitter.com/ENKIProtocol",
+    "discord": "",
+    "docs": "https://docs.enkixyz.com/",
+    "blog": "https://medium.com/@ENKIProtocol",
+    "github": "https://github.com/ENKIXYZ",
+    "telegram": "https://t.me/enkixyz",
+    "defillama": "https://defillama.com/protocol/enki-protocol",
+    "website": "https://enkixyz.com"
   }
 ]
