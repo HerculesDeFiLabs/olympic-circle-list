@@ -225,5 +225,31 @@
     "telegram": "https://t.me/enkixyz",
     "defillama": "https://defillama.com/protocol/enki-protocol",
     "website": "https://enkixyz.com"
+  },
+  {
+    "chainId": 1088,
+    "id": "defikingdoms",
+    "name": "DeFi Kingdoms",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2FJEWEL.png?alt=media",
+    "cover": "https://raw.githubusercontent.com/DefiKingdoms/docs/master/.gitbook/assets/banner-dfk.png",
+    "banner": "https://app.hercules.exchange/images/olympic-banner.png",
+    "tagline": "Command your Legion. Claim your Legacy.",
+    "tags": [
+      "Gaming",
+      "DeFi",
+      "NFTs"
+    ],
+    "description": "DeFi Kingdoms is a cross-chain fasntasy RPG game with beautiful pixel art, tokenized resources, and Hero NFTs integrated with DeFi protocols.",
+    "tokens": [
+      "0x17C09cfC96C865CF546d73365Cedb6dC66986963"
+    ],
+    "twitter": "https://twitter.com/DeFiKingdoms",
+    "discord": "https://discord.gg/defikingdoms",
+    "docs": "https://docs.defikingdoms.com/",
+    "blog": "https://defikingdoms.medium.com/",
+    "github": "",
+    "telegram": "https://t.me/defikingdoms",
+    "defillama": "",
+    "website": "https://defikingdoms.com"
   }
 ]
