@@ -13,11 +13,5 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/HerculesDeFiLabs/olympic-circle-list"
-  },
-  "devDependencies": {
-    "@ethersproject/address": "^5.7.0",
-    "ajv": "6.12.3",
-    "chai": "^4.3.7",
-    "mocha": "^10.2.0"
   }
 }
