@@ -5,7 +5,7 @@
   "license": "GPLV3",
   "scripts": {
     "test": "mocha",
-    "build": "mkdir -p build && node src/write.js > build/olympiccircle.json && cp _redirects build/"
+    "build": "mkdir -p build && node src/write.js > build/olympiccircle.json && cp src/index.html build/"
   },
   "files": [
     "build/olympiccircle.json"
