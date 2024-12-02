@@ -55,31 +55,6 @@
   },
   {
     "chainId": 1088,
-    "id": "AraFi",
-    "name": "AraFi",
-    "logo": "https://raw.githubusercontent.com/AraFiEco/mediapack/main/AraFi_C_W.svg",
-    "cover": "https://raw.githubusercontent.com/AraFiEco/mediapack/main/arafi_banner.svg",
-    "banner": "https://app.hercules.exchange/images/olympic-banner.png",
-    "tagline": "Omnichain Governance Aggregator",
-    "tags": [
-      "omnichain",
-      "governance",
-      "aggregator"
-    ],
-    "description": "AraFi is a sophisticated omnichain governance aggregator designed to optimize the potential returns and governance capabilities of DeFi stakeholders, promoting financial security, stability and scalability. The platform offers the opportunity to combine governance authority and maximize rewards through the liquid staking of locked/vote escrow tokens from various chains and protocols.",
-    "tokens": [
-      "0x85b70D7e56BC8C4dDD7a5BB30E59b223DA383E34"
-    ],
-    "twitter": "https://x.com/AraFiEco",
-    "discord": "https://discord.gg/685ZzRmB8s",
-    "docs": "https://docs.arafi.app",
-    "blog": "https://ara-fi.medium.com/",
-    "github": "https://github.com/AraFiEco",
-    "telegram": "https://t.me/AraFiEco",
-    "website": "https://arafi.app"
-  },
-  {
-    "chainId": 1088,
     "id": "VDAO",
     "name": "VestaDAO",
     "logo": "https://images.squarespace-cdn.com/content/v1/6627ffd28c26a441f417558a/bb8a9975-7fe9-4267-a762-53aec214f399/vdao+Logo+circle.png?format=500w",
